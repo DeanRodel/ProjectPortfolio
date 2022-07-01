@@ -1,0 +1,134 @@
+#home1{
+	background-image: url(./img/home.jpg);
+
+	height: auto;
+  	background-position: center;
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+  	background-size: cover;
+  	position: relative;
+}
+#h2{
+	font-family: algerian;
+}
+
+
+
+.h3{
+	color: #05204A;
+	font-family: algerian;
+}
+.fonts{
+	font-family: arial black;
+}
+#h3{
+	font-family: calibri;
+}
+
+#home2{
+	background-image: url(./img/home.jpg);
+}
+
+#bgcolor{
+	background-color: #95F2D9;
+}
+
+#banner{
+	background-image: url(./img/backgroundBody.jpg);
+	background-size: cover;
+background-position: center;
+}
+#banner1{
+	background-color: #23C9FF;
+	}
+#imghome{
+	width: 250px;
+	height: 250px;
+}
+#banner2{
+background-image: url(./img/background.jpg);
+background-size: cover;
+background-position: center;
+}
+
+#work{
+	background-color: #03045E;
+}
+#other{
+	color: #0A014F;
+}
+#oth{
+	color: blue;
+}
+#experience{
+	color: #033F63;
+
+}
+#experience1{
+	font-size: 16px;
+	font-family: calibri dark;
+}
+
+#footerB{
+	width: 100%;
+	background-color: #0A014F; 
+	height: 50px;
+}
+
+
+
+#rect {
+    animation-name: rainbow;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
+
+  @keyframes rainbow {
+    0% {
+      background-color: #03CEA4;
+    }
+    20% {
+      background-color: #5E2BFF;
+    }
+    40% {
+      background-color: #E40066;
+    }
+    60% {
+      background-color: #C04CFD;
+    }
+     80% {
+      background-color: #345995;
+    } 
+    100% {
+      background-color: #5E2BFF;
+    }
+}
+.borders{
+	border-radius: 10px;
+}
+
+.BorderRadius{
+	border-radius: 20px;
+}
+
+.hr{
+	background-color: white;
+}
+
+.hr1{
+	background-color: #A9F72A;
+	height: 5px;
+}
+
+.fab{
+	font-size: 2rem;
+	color: white;
+}
+
+.gallerybody{
+	background-color: #9B91F2;
+	
+
+}
+
+
